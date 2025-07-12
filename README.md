@@ -211,10 +211,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For questions and support, please [open an issue](https://github.com/sw3o/nsfw-detector/issues) on GitHub.
+For questions and support, please [open an issue](https://github.com/sw3do/nsfw-detector/issues) on GitHub.
 
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/sw3o">sw3o</a>
+Made with ❤️ by <a href="https://github.com/sw3do">sw3do</a>
 </div> 
